@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Оперции деле�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Условные конструкции", "3. Условные конструкции\3. Условные конструкции.csproj", "{39B72EFB-4931-4C52-A9D2-EC1D4EAF8AD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Оператор выбора switch", "Оператор выбора switch\4. Оператор выбора switch.csproj", "{051B8B54-D6F2-4968-80FA-7EF1A9AE0C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Цикл For", "5. Цикл For\5. Цикл For.csproj", "{2C4D1AF6-5DB8-45CF-8594-2EBD0A65EB58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{39B72EFB-4931-4C52-A9D2-EC1D4EAF8AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B72EFB-4931-4C52-A9D2-EC1D4EAF8AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39B72EFB-4931-4C52-A9D2-EC1D4EAF8AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051B8B54-D6F2-4968-80FA-7EF1A9AE0C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051B8B54-D6F2-4968-80FA-7EF1A9AE0C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051B8B54-D6F2-4968-80FA-7EF1A9AE0C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051B8B54-D6F2-4968-80FA-7EF1A9AE0C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4D1AF6-5DB8-45CF-8594-2EBD0A65EB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4D1AF6-5DB8-45CF-8594-2EBD0A65EB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4D1AF6-5DB8-45CF-8594-2EBD0A65EB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4D1AF6-5DB8-45CF-8594-2EBD0A65EB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
